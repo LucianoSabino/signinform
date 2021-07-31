@@ -1,6 +1,6 @@
 # Projeto Formulário de SignIn
 
-![Projeto Preview](https://github.com/LucianoSabino/signinform/blob/main/img/img-readme.png?raw=true)
+Para ver o projeto ao vivo, [clique aqui](https://lucianosabino.github.io/signinform/)
 
 Esse projeto foi realizado durante o curso **Frontstart** com o objetivo de aprender  **html** e **css** voltado para **formulários**.
 
